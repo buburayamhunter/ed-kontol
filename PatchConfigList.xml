@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+	<ChannelList channel_name="channel1">
+		<Local local_name="SIN_Test">
+			<version addr="http://patchsea.dragonnest.com/Game/DragonNest/Patch/"/>
+			<update addr="http://patchsea.dragonnest.com/Game/DragonNest/Patch/"/>
+			<guidepage addr="http://sea.dragonnest.com/game/dnlauncher"/>
+			<homepage addr="http://sea.dragonnest.com"/>
+			<login addr="10.177.169.207" port="51885"/>
+			<login addr="43.159.27.214" port="14301"/>
+			<login addr="100.64.100.6" port="63395"/>
+			<login addr="43.152.112.200" port="14301"/>
+			</Local>
+	</ChannelList>
+</document>
