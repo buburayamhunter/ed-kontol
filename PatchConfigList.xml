@@ -5,7 +5,6 @@
 			<Version addr="http://patchsea.dragonnest.com/Game/DragonNest/Patch/PatchInfoServer/"/>
 			<Update addr="http://patchsea.dragonnest.com/Game/DragonNest/Patch/"/>
 			<Launcher pm="-1" pmMessage="" pmWeb="" web="http://launcher-seaclassic.dragonnest.com/project/"/>
-			<DNLauncher versionNum="1.3.0.15"/>
 			<Region imageVersion="-1"/>
 			<Homepage addr="https://sea.dragonnest.com/"/>
 			<StateCheck addr="http://115.238.22.57/default.htm"/>
