@@ -10,5 +10,5 @@
 			<Login addr="43.159.27.214" port="14301"/>
 			<Login addr="43.152.112.200" port="14301"/>
 			</Local>
-	</ChannelList>
+	</ChannelingList>
 </document>
