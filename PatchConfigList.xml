@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <document>
-	<ChannelList channel_name="channel1">
-		<Local local_name="SIN_Test">
-			<version addr="http://patchsea.dragonnest.com/Game/DragonNest/Patch/"/>
-			<update addr="http://patchsea.dragonnest.com/Game/DragonNest/Patch/"/>
-			<guidepage addr="http://sea.dragonnest.com/game/dnlauncher"/>
-			<homepage addr="http://sea.dragonnest.com"/>
-			<login addr="43.152.113.144" port="14301"/>
-			</Local>
-	</ChannelList>
+	<ChannelingList AreaShowName="SEA" AreaType="1" channelingName="channel1">
+		<Local localName="SEA 1" new="0" open="1" partitionId="1">
+			<Version addr="http://patchsea.dragonnest.com/Game/DragonNest/Patch/PatchInfoServer/"/>
+			<Update addr="http://patchsea.dragonnest.com/Game/DragonNest/Patch/"/>
+			<Launcher pm="-1" pmMessage="" pmWeb="" web="http://launcher-seaclassic.dragonnest.com/project/"/>
+			<DNLauncher versionNum="1.3.0.15"/>
+			<Region imageVersion="-1"/>
+			<Homepage addr="https://sea.dragonnest.com/"/>
+			<StateCheck addr="http://115.238.22.57/default.htm"/>
+			<Login addr="43.152.113.144" port="14301"/>
+			<Login addr="43.159.27.214" port="14301"/>
+			<Login addr="43.152.112.200" port="14301"/>
+		</Local>
+	</ChannelingList>
 </document>
