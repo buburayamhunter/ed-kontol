@@ -2,7 +2,6 @@
 <document>
 	<ChannelingList AreaShowName="SEA" AreaType="1" channelingName="channel1">
 		<Local localName="SEA 1" new="0" open="1" partitionId="1">
-			<Launcher pm="-1" pmMessage="" pmWeb="" web="http://launcher-seaclassic.dragonnest.com/project/"/>
 			<Region imageVersion="-1"/>
 			<Homepage addr="https://sea.dragonnest.com/"/>
 			<StateCheck addr="http://115.238.22.57/default.htm"/>
